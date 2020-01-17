@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>960044246424-e59b04soaermgb6o2t31hpi8klae1dge.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.960044246424-e59b04soaermgb6o2t31hpi8klae1dge</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBmt5vh7IfJepcF4YdEeEPBaqCnoUFLnys</string>
+	<key>GCM_SENDER_ID</key>
+	<string>960044246424</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>id.adapay.ios</string>
+	<key>PROJECT_ID</key>
+	<string>adapaymobile</string>
+	<key>STORAGE_BUCKET</key>
+	<string>adapaymobile.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:960044246424:ios:c4a0aac46ab74120e2f7ed</string>
+	<key>DATABASE_URL</key>
+	<string>https://adapaymobile.firebaseio.com</string>
+</dict>
+</plist>
